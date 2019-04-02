@@ -442,9 +442,9 @@ img::-moz-selection {
   .hidden {
     display: none !important; }
 
-  .post-comments {
+/*   .post-comments {
     border-top: 1px solid #DDDDDD;
-    padding: 60px 0; }
+    padding: 60px 0; } */
 
   .post-meta {
     margin: 0;
