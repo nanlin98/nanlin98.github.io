@@ -1,9 +1,0 @@
----
-title: My first blog
-layout: post
----
-<p>Hello world~</p>
-<p>ladalidadi</p>
-<p>老子牛批</p>
-<p>为自己打call</p>
-<p>66666666666666666666666666666666</p>
